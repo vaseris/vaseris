@@ -19,4 +19,24 @@
 <input name="base" type="radio">Karamelkoekjes/br>
 <input name="base" type="radio">Fudge</br>
 <input name="base" type="radio">Bananenbrood</br>
+
+
+<br>
+
+
+<p>hoeveel</p>
+<select style="font-size:24px">
+    <option>Klein (100g)</option>
+    <option>Middel (250 g)</option>
+    <option>Groot (500g)</option>
+</select>
+
+<p>Extra vragen</p>
+<p>(Voor als je fudge neemt)</p>
+<input type="chekbox"> Kokos/(pure)Chocolade
+<input type="chekbox"> Witte/Pure chocolade
+<p>(Voor als je bananenbrood neemt)</p>
+input type="chekbox"> Heel bananenbrood
+input type="chekbox"> Plakjes van 2 centimeter
+input type="chekbox"> Plakjes van 3 centimeter
 </html>
