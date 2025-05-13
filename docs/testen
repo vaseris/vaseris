@@ -7,5 +7,16 @@
 </style>
 
 
+<h1 style="color:white">Sweet and Sour</h1>
+<img width="300" src="Sweet-and-sour.jpg">
+<h3>bezorgdienst</h3>
 
+<p>Kies het snoep</p>
+<input name="base" type="radio">Boterbabbelaars</br>
+<input name="base" type="radio">Speculaas</br>
+<input name="base" type="radio">Pepernoten/br>
+<input name="base" type="radio">Eetbaar koekdeeg</br>
+<input name="base" type="radio">Karamelkoekjes/br>
+<input name="base" type="radio">Fudge</br>
+<input name="base" type="radio">Bananenbrood</br>
 </html>
