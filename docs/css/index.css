@@ -71,12 +71,6 @@ body {
   color: #444 !important;
 }
 
-@media (max-width: 768px) {
-  .zonnetje {
-    display: none;
-  }
-}
-
 @media (max-width: 480px) {
   footer p {
     font-size: 0.9rem;
