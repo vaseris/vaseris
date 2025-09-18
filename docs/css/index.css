@@ -60,13 +60,3 @@ body {
   animation: bounce 0.6s ease infinite;
 }
 
-.passive-btn {
-  color: #999 !important;
-  text-shadow: none;
-  box-shadow: -4px 4px 10px rgba(0,0,0,0.2);
-}
-
-.passive-btn:hover {
-  background-color: #ccc;
-  color: #444 !important;
-}
